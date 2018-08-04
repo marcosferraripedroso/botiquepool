@@ -1,0 +1,12 @@
+﻿Você poderá fazer da maneira que quiser e na linguagem que quiser. Somente deverá obedecer a alguns pontos:
+Tem de ser em .Net Core C# ou NodeJS
+Tem de usar algum framework javascript  (Vue ou React ou Angular)
+Banco de dados pode ser sql server ou mongo ou MySql ou Postgress
+O visual não precisa fazer nada muito complexo. Anexa alguma library (bootstrap, material, semantic, etc...) e só faz o mínimo pra ficar apresentável
+Tem de ter uma validação básica nos campos
+Se fizer teste unitário é um Plus! (não fazendo não irá mudar nada na avaliação)
+A entrega tem de ser feita em um Github seu, onde será visto a organização do projeto nele também. Caso use banco de dados relacional, colocar o script no repositório também. 
+
+O desenho do sistema esta no seguinte link:
+
+https://app.moqups.com/PtkFerraro/PBkmyzDEei/view/page/ad64222d5 

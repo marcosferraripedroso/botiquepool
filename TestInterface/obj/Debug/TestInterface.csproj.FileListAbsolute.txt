@@ -1,0 +1,17 @@
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\TestInterface\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\TestInterface\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\TestInterface\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\TestInterface\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\TestInterface\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\TestInterface\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\TestInterface\bin\Debug\TestInterface.dll
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\TestInterface\bin\Debug\TestInterface.pdb
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\TestInterface\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\TestInterface\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\TestInterface\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\TestInterface\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\TestInterface\obj\Debug\TestInterface.csprojAssemblyReference.cache
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\TestInterface\obj\Debug\TestInterface.csproj.CoreCompileInputs.cache
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\TestInterface\obj\Debug\TestInterface.csproj.CopyComplete
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\TestInterface\obj\Debug\TestInterface.dll
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\TestInterface\obj\Debug\TestInterface.pdb

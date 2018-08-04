@@ -1,0 +1,9 @@
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\BoutiqueDataContract\bin\Debug\netcoreapp2.0\BoutiqueDataContract.deps.json
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\BoutiqueDataContract\bin\Debug\netcoreapp2.0\BoutiqueDataContract.dll
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\BoutiqueDataContract\bin\Debug\netcoreapp2.0\BoutiqueDataContract.pdb
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\BoutiqueDataContract\obj\Debug\netcoreapp2.0\BoutiqueDataContract.csprojAssemblyReference.cache
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\BoutiqueDataContract\obj\Debug\netcoreapp2.0\BoutiqueDataContract.csproj.CoreCompileInputs.cache
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\BoutiqueDataContract\obj\Debug\netcoreapp2.0\BoutiqueDataContract.AssemblyInfoInputs.cache
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\BoutiqueDataContract\obj\Debug\netcoreapp2.0\BoutiqueDataContract.AssemblyInfo.cs
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\BoutiqueDataContract\obj\Debug\netcoreapp2.0\BoutiqueDataContract.dll
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\BoutiqueDataContract\obj\Debug\netcoreapp2.0\BoutiqueDataContract.pdb

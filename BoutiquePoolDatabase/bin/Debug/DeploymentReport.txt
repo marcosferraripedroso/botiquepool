@@ -1,0 +1,20 @@
+﻿** Destaques
+     Tabelas que serão recriadas
+       Nenhum
+     Índices clusterizados que serão removidos
+       Nenhum
+     Índices clusterizados que serão criados
+       Nenhum
+     Possíveis problemas de dados
+       Nenhum
+
+** Ações do usuário
+     Criar
+       [dbo].[Pessoas] (Tabela)
+       Restrição Padrão: restrição sem nome em [dbo].[Pessoas] (Restrição Padrão)
+       [dbo].[sp_AddPessoa] (Procedimento)
+       [dbo].[sp_GetLista] (Procedimento)
+       [dbo].[sp_GetPessoa] (Procedimento)
+       [dbo].[UpdatePessoa] (Procedimento)
+
+** Ações de suporte

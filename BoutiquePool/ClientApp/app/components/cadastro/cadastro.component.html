@@ -1,0 +1,72 @@
+<!doctype html>
+
+<html>
+<head>
+    
+    <script src="js/angular.min.js"></script>
+    <script src="js/func.js"></script>
+    <script type="text/javascript">
+
+        $("#btSalvar").click(function () { alert('ddd'); });
+
+        var app = angular.module("app", []);
+        app.controller('PessoaController', [function () {
+            this.myFunction = function () {
+                alert("Iam from angular controller");
+            }
+        }]);
+
+        function salvaContato() {
+
+            alert('ddd');
+        };
+    </script>
+</head>
+<body ng-app="myApp">
+    <br>
+    <h1>
+        Cadastro de Pessoas
+    </h1>
+    <br><br>
+    <div ng-controller="PessoaController">
+        <form id="formpessoa" ng-submit="salvaContato()">
+            <table>
+                <tr>
+                    <td>Nome</td>
+                    <td><input type="text" id="nome" ng-model="pessoa.nome" /></td>
+                </tr>
+                <tr>
+                    <td>Email</td>
+                    <td><input type="text" id="email" ng-model="pessoa.email" /></td>
+                </tr>
+                <tr>
+                    <td>Idade</td>
+                    <td><input type="text" id="idade" ng-model="pessoa.idade" /></td>
+                </tr>
+                <tr>
+                    <td>Profissao</td>
+                    <td>
+                        <select id="profissao" ng-model="pessoa.profissaoid">
+                            <option value="0">Select Account</option>
+                            <option value="1">Engenheiro</option>
+                            <option value="2">Advogado</option>
+                            <option value="3">Administrador</option>
+                            <option value="4">Analista</option>
+                            <option value="5">Assistente</option>
+                            <option value="6">Outras</option>
+                        </select>
+                        <br />
+                </tr>
+                <tr>
+                    <td>Desempregado</td>
+                    <td><input type="checkbox" id="desempregado" ng-model="pessoa.desempregado" /></td>
+                </tr>
+                <tr>
+                    <td><input type="hidden" id="IdPessoa" ng-model="pessoa.id" /></td>
+                    <td><input type="button" id="btSalvar" value="Salvar" onclick="javascript: var xhr = new XMLHttpRequest(); xhr.open('POST', 'http://localhost:49596/home/SaveData', true); xhr.setRequestHeader('Content-Type', 'application/json'); xhr.send(JSON.stringify({ Nome: document.all.nome.value, Email: document.all.email.value, Idade: document.all.idade.value, Profissao: document.all.profissao.value, Desempregado: document.all.desempregado.checked, Id: document.all.IdPessoa.value })); alert('Cadastro Efetuado'); document.all.nome.value = ''; document.all.email.value = ''; document.all.idade.value = ''; document.all.profissao.value = ''; document.all.desempregado.checked  = false; document.all.IdPessoa.value = ''; "/></td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</body>
+</html>

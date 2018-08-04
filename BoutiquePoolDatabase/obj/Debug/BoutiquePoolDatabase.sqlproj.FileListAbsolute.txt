@@ -1,0 +1,5 @@
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\BoutiquePoolDatabase\bin\Debug\BoutiquePoolDatabase.dacpac
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\BoutiquePoolDatabase\bin\Debug\BoutiquePoolDatabase.dll
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\BoutiquePoolDatabase\bin\Debug\BoutiquePoolDatabase.pdb
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\BoutiquePoolDatabase\obj\Debug\BoutiquePoolDatabase.dll
+C:\Sergio\MARCAO\BoutiquePool\BoutiquePool\BoutiquePoolDatabase\obj\Debug\BoutiquePoolDatabase.pdb
