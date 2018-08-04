@@ -3,6 +3,7 @@ using BoutiquePool.DataDefinition;
 using BoutiquePool.Business;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json.Linq;
+using System.Linq;
 
 namespace BoutiquePool.Controllers
 {
@@ -22,8 +23,16 @@ namespace BoutiquePool.Controllers
         public JsonResult GetLista()
         {
             blPessoas blPessoas = new blPessoas();
+            var lista = blPessoas.GetListas().Select(i => new { i.Id,
+                                                                i.Nome,
+                                                                i.Idade,
+                                                                i.Email,
+                                                                Profissao = System.Enum.GetName(typeof(BoutiqueDataContract.DataDefinition.Enuns.enProfissao), i.Profissao),
+                                                                Status = System.Enum.GetName(typeof(BoutiqueDataContract.DataDefinition.Enuns.enStatus), i.Status)
+                                                              });
 
-            return new JsonResult(Newtonsoft.Json.JsonConvert.SerializeObject(blPessoas.GetListas()));
+
+            return new JsonResult(Newtonsoft.Json.JsonConvert.SerializeObject(lista));
         }
 
         /// <summary>
